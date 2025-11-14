@@ -1,3 +1,5 @@
 # jajajaja
 
 short and meaningful commit message lol
+
+![Image of Gimli](https://static.wikia.nocookie.net/lotr/images/4/43/Gimli.jpg/revision/latest?cb=20080318220808)
